@@ -144,6 +144,8 @@ h1 {
     border: 1px solid rgba(8, 8, 8, 0.288);
     border-radius: 25px;
     box-shadow: 0 0 10px 1px rgba(8, 8, 8, 0.288);
+    flex-grow: 1;
+    flex-shrink: 2;
 }
 
 #menu-container .container p {
