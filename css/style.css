@@ -55,6 +55,11 @@ ul li {
     
 }
 
+#logo:hover {
+    background-color: #F11A7B;
+    color: #fff;
+}
+
 h1 {
     font-size: 36px;
     font-weight: bold
